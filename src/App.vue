@@ -3,7 +3,7 @@ import cuyComponent from "./Cuy/pages/Cuy.Component.vue";
 </script>
 
 <template>
-    <cuyComponent />
+  <cuyComponent />
 </template>
 
 <style scoped>

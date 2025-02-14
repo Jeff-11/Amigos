@@ -431,7 +431,7 @@ h2::after {
 .dedicated-song {
   margin: 40px 0;
   text-align: center;
-  background-color: #8ebcb5; /* Set the background color */
+  background-color: #8ebcb5;
   padding: 20px;
   border-radius: 15px;
 }
@@ -444,7 +444,7 @@ h2::after {
 
 .dedicated-song h4,
 .dedicated-song p {
-  color: #000000; /* Set text color to black */
+  color: #000000;
 }
 
 .dedicated-song audio {
