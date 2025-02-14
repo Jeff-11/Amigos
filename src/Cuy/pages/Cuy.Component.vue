@@ -55,7 +55,7 @@
     <!-- Nueva Sección de Recuerdos -->
     <section class="special-moments">
       <h2>Momentos Especiales ✨</h2>
-      <carousel class="custom-carousel" :autoplay="false" :wrap-around="true" :show-arrows="true" :show-dots="true">
+      <carousel class="custom-carousel" :autoplay="0" :wrap-around="true" :show-arrows="true" :show-dots="true">
         <slide v-for="(moment, index) in moments" :key="index">
           <div v-if="moment.type === 'photo'" class="moment-item">
             <img :src="moment.src" :alt="moment.alt" class="moment-image" />
