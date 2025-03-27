@@ -3,7 +3,7 @@
     <!-- Header Mejorado -->
     <header class="header-animated">
       <div class="floating-hearts">❤</div>
-      <h1>¡Feliz Dia de La Amistad, YOLENY! </h1>
+      <h1> TE VOY A EXTRAÑAR CUY 🥺 </h1>
       <p class="subtitle-animated">Un pequeño espacio para recordarte lo especial que eres.</p>
       <div class="sparkles">✨</div>
     </header>
